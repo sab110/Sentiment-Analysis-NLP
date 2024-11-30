@@ -73,7 +73,7 @@ This project demonstrates the process of **sentiment analysis**, a common applic
 ### Step 1: Clone the Repository
 Clone the repository to your local machine:
 ```bash
-git clone <repository-url>
+git clone https://github.com/sab110/Sentiment-Analysis-NLP.git
 cd Sentiment-Analysis-NLP
 
 ```
